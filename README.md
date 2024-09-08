@@ -1,15 +1,28 @@
-# Hi 👋
-| <a href="https://github.com/shad-ct/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shad-ct&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="shad's github stats" /></a> | <a href="https://github.com/shad-ct/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shad-ct&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-<a href="https://github.com/shad-ct/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shad-ct&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/shad-ct/Code-Notes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shad-ct&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=aveek-saha&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aveek-saha&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=shad-ct&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
 </p>
+
+<p align="center">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=ytdx">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=pixel-weather">
+</p> 
+
+
+<!--
+**Aveek-Saha/aveek-saha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
