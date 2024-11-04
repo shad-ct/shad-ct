@@ -1,14 +1,12 @@
 <p align="center">
-  
+    
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shad-ct&label=You'r%20&color=0e75b6&style=flat" alt="shad-ct" /> </p>
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=shad-ct&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shad-ct&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shad-ct&label=You'r%20&color=0e75b6&style=flat" alt="shad-ct" /> </p>
   
   <br>
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=shad-ct&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shad-ct&label=You'r%20&color=0e75b6&style=flat" alt="shad-ct" /> </p>
+
 </p>
