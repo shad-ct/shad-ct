@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shad-ct&label=You'r%20&color=0e75b6&style=flat" alt="shad-ct" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shad-ct&label=You'r%20&color=orange&style=flat" alt="shad-ct" /> </p>
 <p align="center">
     
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=shad-ct&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
