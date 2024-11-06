@@ -8,5 +8,4 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=shad-ct&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-
 </p>
