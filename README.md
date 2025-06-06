@@ -10,15 +10,5 @@
 <br><br>
 
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=shad-ct&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
 
-
-<!---
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shad-ct&radius=8&theme=chartreuse-dark&area=true&order=5&hide_title=false&hide_border=true" height="288" alt="activity-graph graph" />
-</p>
-
---->
-
-  <br>
 </p>
