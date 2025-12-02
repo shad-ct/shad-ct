@@ -98,13 +98,17 @@
 <h2 align="center""> <img width="25" src="https://github.com/user-attachments/assets/de63f307-0178-42f3-9344-7b6efc67e3e1" />
  <em> Statistics </em> </h2>
 
-<div align = "center"> 
+<div align="center"> 
 
-![Shad's GitHub stats](https://github-readme-stats.vercel.app/api?username=shad-ct&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  ![](https://nirzak-streak-stats.vercel.app/?user=Shad-ct&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+![Shad's GitHub stats](https://github-readme-stats.vercel.app/api?username=shad-ct&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Shad-ct&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shad-ct&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
+
 
 
 
