@@ -90,6 +90,9 @@
 <!-- Express.js -->
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 
+<!-- Django -->
+<img src="https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=white" />
+
 </p>
 
 <br/>
