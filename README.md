@@ -2,7 +2,7 @@
     <img src="https://komarev.com/ghpvc/?username=shad-ct&label=Total%20Visitors%20:%20&color=orange&style=flat" alt="shad-ct"/>
     <br>
 
-<img width="1080" height="415" alt="Gemini_Generated_Image_7qtx4b7qtx4b7qtx (1)" src="https://github.com/user-attachments/assets/19e6c779-8e21-4de7-bea5-ad1d7c7786db" />
+<img width="1080" height="415" alt="Gemini_Generated_Image_7qtx4b7qtx4b7qtx (1)" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczE4dnI0NGs5bHBxcWszM2Npa2pleWQ5NXByamxkYnJoY2RpZHpqMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KX5nwoDX97AtPvKBF6/giphy.gif" />
 
 
 
@@ -18,24 +18,23 @@
 
 <br>
 
-<h2 align="center"> <img width="25"src="https://github.com/user-attachments/assets/f991a2ef-c2d2-48ba-ac03-28d81deeb1fe" />
+<h2 align="center">
 <em>About  me </em></h2>
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnV3cmx6NGRpb3FyOTY4NnF3OTNrMDhubDFucm12YXd2MHUyMHU0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eHXed39iQn3TrMAZJO/giphy.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Shad </b></em>, a BSc CS student. I enjoy learning new technologies and problem solving. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Tailwind and more.
+  Hello There! <em><b> I'm Shad </b></em>, an Integrated BSc/MSc CS student. I enjoy learning new technologies and problem solving.
 </p>
 
 
 <br/>
 
 <p align="center">
-    <img  width="15"alt="image" src="https://github.com/user-attachments/assets/7b315b1d-78c3-43ae-b364-b1bbc1d4fae1" />
-  <em><b> Studying at the Kannur University Mangattuparamba campus </b></em> <br/>
     
-   <img width="15" alt="image" src="https://github.com/user-attachments/assets/ab26ba14-53c9-4a16-92d3-b50da069ff8c" />
+  <em><b> Studying at the Kannur University Mangattuparamba campus </b></em> <br/>
+     
    <em><b> Working at IOTRICS as Frontend Developer</b></em><br/>
 </p>
 
